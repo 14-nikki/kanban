@@ -93,14 +93,3 @@ const KanbanBoard = () => {
     </div>
   );
 };
-
-export default KanbanBoard;
-
-✅ Key Features:
-
-✔ Clean and responsive layout
-✔ Drag-and-drop with state update
-✔ Search functionality
-✔ Code follows best practices
-
-This version is more refined, includes better state handling, and ensures proper drag-and-drop across different columns. Let me know if you want to add more features like task creation or deletion!
